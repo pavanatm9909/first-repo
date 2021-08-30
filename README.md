@@ -1,3 +1,3 @@
 # first-repo
 Hy this is my first git repo in NWMSU...
-This commit is using for part5
+This commit is using for part5 in assignment 1
